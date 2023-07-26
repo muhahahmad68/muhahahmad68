@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A Backend developer</h3>
 
-- 🌱 learning **Django, REST FRAMEWORK**
+- 🌱 Python and C++
 
 - 📫 How to reach me **muhahmadmola09@gmail.com**
 
